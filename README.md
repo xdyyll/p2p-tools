@@ -2,4 +2,4 @@
 Some P2P tools
 
 ## nat-detect.c
-A very simple client implemented NAT type detection(RFC 3489), depends on my libjuice nat-detect branch, like pystun.
+A very simple client implemented NAT type detection(RFC 3489), depends on my [libjuice nat-detect branch](https://github.com/xdyyll/libjuice/tree/nat-detect), like [pystun](https://github.com/jtriley/pystun).
